@@ -2109,7 +2109,8 @@
   "skyfactory_5:tracking_advancements/normal_gateways/green_normal_gateways": {
     "criteria": {
       "sniffer": "2025-03-18 19:56:33 +0100",
-      "zombie": "2025-03-16 21:00:22 +0100"
+      "zombie": "2025-03-16 21:00:22 +0100",
+      "lobber_zombie": "2025-03-24 20:48:07 +0100"
     },
     "done": false
   },
@@ -3814,6 +3815,7 @@
   },
   "skyfactory_5:tracking_advancements/titan_gateways/green_titan_gateways": {
     "criteria": {
+      "sniffer": "2025-03-24 20:48:07 +0100",
       "zombie_villager": "2025-03-18 19:56:33 +0100"
     },
     "done": false
@@ -12093,27 +12095,9 @@
     },
     "done": true
   },
-  "xercapaint:recipes/item_canvas": {
-    "criteria": {
-      "has_item": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "forcecraft:recipes/building_blocks/force_brick_cyan": {
     "criteria": {
       "has_cyan_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "transmog:recipes/misc/void_fragment": {
-    "criteria": {
-      "has_item": "2025-03-23 19:53:48 +0100"
     },
     "done": true
   },
@@ -12132,18 +12116,6 @@
   "refurbished_furniture:recipes/decorations/cyan_toilet": {
     "criteria": {
       "has_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_destruction": {
-    "criteria": {
-      "has_ender_pearl": "2025-03-23 19:53:48 +0100"
-    },
-    "done": true
-  },
-  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
-    "criteria": {
-      "pearl": "2025-03-23 19:53:48 +0100"
     },
     "done": true
   },
@@ -12171,18 +12143,6 @@
     },
     "done": true
   },
-  "silentgear:recipes/misc/blueprint_paper": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "chunkloaders:recipes/misc/basic_chunk_loader": {
-    "criteria": {
-      "recipe_condition": "2025-03-23 19:53:48 +0100"
-    },
-    "done": true
-  },
   "forcecraft:recipes/building_blocks/force_cyan_torch": {
     "criteria": {
       "has_dye": "2025-03-23 19:50:13 +0100"
@@ -12201,18 +12161,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/empty_schematic": {
-    "criteria": {
-      "has_item": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/cyan_kitchen_cabinetry_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-23 19:50:13 +0100"
@@ -12222,12 +12170,6 @@
   "forcecraft:recipes/misc/cyan_force_furnace_from_dye": {
     "criteria": {
       "has_cyan_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/template_manager": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
     },
     "done": true
   },
@@ -12243,21 +12185,9 @@
     },
     "done": true
   },
-  "exnihilosequentia:recipes/food/ens_end_cake": {
-    "criteria": {
-      "has_ender_pearl": "2025-03-23 19:53:48 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_cyan_bed": {
     "criteria": {
       "has_needed_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "wormhole:recipes/misc/portal_stabilizer": {
-    "criteria": {
-      "recipe_condition": "2025-03-23 19:53:48 +0100"
     },
     "done": true
   },
@@ -12279,51 +12209,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_basin": {
     "criteria": {
       "has_cyan_dye": "2025-03-23 19:50:13 +0100"
     },
     "done": true
   },
-  "supplementaries:recipes/candy": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/present": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/book": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_sink": {
     "criteria": {
       "has_cyan_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "forcecraft:recipes/food/fortune_cookie": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
     },
     "done": true
   },
@@ -12339,12 +12233,6 @@
     },
     "done": true
   },
-  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
-    "criteria": {
-      "has_item": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "ae2:recipes/misc/network/cables/dense_covered_cyan": {
     "criteria": {
       "has_dyes/black": "2025-03-23 19:50:13 +0100"
@@ -12354,30 +12242,6 @@
   "refurbished_furniture:recipes/misc/constructing/cyan_kitchen_storage_cabinet": {
     "criteria": {
       "has_cyan_dye": "2025-03-23 19:50:13 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/sand_paper": {
-    "criteria": {
-      "has_item": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/materials/red_sand_paper": {
-    "criteria": {
-      "has_item": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "enderio:recipes/misc/black_paper": {
-    "criteria": {
-      "has_ingredient": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
-  "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
-    "criteria": {
-      "has_ingredient": "2025-03-23 20:22:06 +0100"
     },
     "done": true
   },
@@ -12411,15 +12275,45 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/cartography_table": {
-    "criteria": {
-      "has_paper": "2025-03-23 20:07:05 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/dye_cyan_carpet": {
     "criteria": {
       "has_needed_dye": "2025-03-23 19:50:13 +0100"
+    },
+    "done": true
+  },
+  "transmog:recipes/misc/void_fragment": {
+    "criteria": {
+      "has_item": "2025-03-23 19:53:48 +0100"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-23 19:53:48 +0100"
+    },
+    "done": true
+  },
+  "rftoolsutility:recipes/rftoolsutility/charged_porter": {
+    "criteria": {
+      "pearl": "2025-03-23 19:53:48 +0100"
+    },
+    "done": true
+  },
+  "chunkloaders:recipes/misc/basic_chunk_loader": {
+    "criteria": {
+      "recipe_condition": "2025-03-23 19:53:48 +0100"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/food/ens_end_cake": {
+    "criteria": {
+      "has_ender_pearl": "2025-03-23 19:53:48 +0100"
+    },
+    "done": true
+  },
+  "wormhole:recipes/misc/portal_stabilizer": {
+    "criteria": {
+      "recipe_condition": "2025-03-23 19:53:48 +0100"
     },
     "done": true
   },
@@ -12428,6 +12322,253 @@
       "has_item": "2025-03-23 19:53:48 +0100"
     },
     "done": true
+  },
+  "xercapaint:recipes/item_canvas": {
+    "criteria": {
+      "has_item": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bannerpatterns": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "silentgear:recipes/misc/blueprint_paper": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/empty_schematic": {
+    "criteria": {
+      "has_item": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_components": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/template_manager": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_bullets": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candy": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/present": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/blueprint_molds": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/book": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "forcecraft:recipes/food/fortune_cookie": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/schematics/schematic_and_quill": {
+    "criteria": {
+      "has_item": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/red_sand_paper": {
+    "criteria": {
+      "has_item": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/misc/black_paper": {
+    "criteria": {
+      "has_ingredient": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cartography_table": {
+    "criteria": {
+      "has_paper": "2025-03-23 20:07:05 +0100"
+    },
+    "done": true
+  },
+  "enderio:recipes/building_blocks/silent_heavy_weighted_pressure_plate": {
+    "criteria": {
+      "has_ingredient": "2025-03-23 20:22:06 +0100"
+    },
+    "done": true
+  },
+  "wormhole:recipes/misc/advanced_energy_cell": {
+    "criteria": {
+      "recipe_condition": "2025-03-24 20:10:16 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tank_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/smelting/smooth_sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/sky_stone_stairs": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/sky_stone_wall": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/sky_stone_slab": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/sky_stone_block": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_sky_stone": {
+    "criteria": {
+      "has_sky_stone_block": "2025-03-24 20:18:51 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/stairs/smooth_sky_stone_stairs": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/walls/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_brick": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/chests_smooth_sky_stone": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/stairs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/shaped/slabs/smooth_sky_stone_block": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/decorative/sky_stone_small_brick_from_stonecutting": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/slabs/smooth_sky_stone_slab": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/block_cutter/walls/smooth_sky_stone_wall": {
+    "criteria": {
+      "has_smooth_sky_stone_block": "2025-03-24 20:19:38 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/materials/copper_ingot": {
+    "criteria": {
+      "has_item": "2025-03-24 20:30:51 +0100"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/tools/ens_copper_crook": {
+    "criteria": {
+      "has_pebble": "2025-03-24 20:30:51 +0100"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/61_80": {
+    "criteria": {
+      "dangeresquejuly": "2025-03-24 20:49:34 +0100",
+      "doctorhat": "2025-03-24 20:49:33 +0100"
+    },
+    "done": false
   },
   "DataVersion": 3465
 }
