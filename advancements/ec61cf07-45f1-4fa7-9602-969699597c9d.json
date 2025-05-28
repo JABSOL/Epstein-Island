@@ -12570,33 +12570,15 @@
     },
     "done": false
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+  "minecraft:recipes/decorations/grindstone": {
     "criteria": {
-      "has_creosote": "2025-03-25 18:55:10 +0100"
+      "has_stone_slab": "2025-03-25 18:49:17 +0100"
     },
     "done": true
   },
   "handcrafted:recipes/misc/bamboo_pillar_trim": {
     "criteria": {
       "has_bamboo_pillar_trim": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -12624,39 +12606,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_candle": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_desk": {
     "criteria": {
       "has_bamboo_desk": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/normal_gateways/red_normal_gateways": {
-    "criteria": {
-      "mooshroom": "2025-03-25 19:26:03 +0100"
-    },
-    "done": false
-  },
-  "immersiveengineering:recipes/misc/crafting/electric_lantern": {
-    "criteria": {
-      "has_light_bulb": "2025-03-25 19:10:01 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/craftingtable": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
     },
     "done": true
   },
@@ -12672,33 +12624,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_pressure_plate": {
     "criteria": {
       "has_planks": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/smart_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -12714,12 +12642,6 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
-    "criteria": {
-      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_chair": {
     "criteria": {
       "has_bamboo_chair": "2025-03-25 18:51:12 +0100"
@@ -12732,57 +12654,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_fence": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/grindstone": {
-    "criteria": {
-      "has_stone_slab": "2025-03-25 18:49:17 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_toilet": {
-    "criteria": {
-      "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_fancy_bed": {
     "criteria": {
       "has_bamboo_fancy_bed": "2025-03-25 18:51:12 +0100"
     },
     "done": true
   },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_bench": {
     "criteria": {
       "has_bamboo_bench": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
-    "criteria": {
-      "has_ingot_aluminum": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/floodlight": {
-    "criteria": {
-      "has_light_bulb": "2025-03-25 19:10:01 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -12804,87 +12684,15 @@
     },
     "done": true
   },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/bamboo_sign": {
     "criteria": {
       "has_planks": "2025-03-25 18:51:12 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-25 18:51:28 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "additionallanterns:recipes/misc/obsidian_chain": {
-    "criteria": {
-      "recipe_condition": "2025-03-25 18:53:43 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_couch": {
     "criteria": {
       "has_bamboo_couch": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stick_treated": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
-    "criteria": {
-      "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_fence": {
-    "criteria": {
-      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_packaged_from_vertical": {
-    "criteria": {
-      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/ens_crying_obsidian": {
-    "criteria": {
-      "has_obsidian": "2025-03-25 18:53:43 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
     },
     "done": true
   },
@@ -12912,27 +12720,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/bamboo_fence_gate": {
     "criteria": {
       "has_planks": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/crate": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -12942,69 +12732,9 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_to_slab": {
-    "criteria": {
-      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_slab": {
-    "criteria": {
-      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
-    "criteria": {
-      "has_pink_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
-    "criteria": {
-      "has_treated_sticks": "2025-03-25 19:05:14 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_drawer": {
     "criteria": {
       "has_bamboo_drawer": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/dye_pink_bed": {
-    "criteria": {
-      "has_needed_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/workbench": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
-    "criteria": {
-      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "ae2:recipes/misc/network/cables/dense_covered_pink": {
-    "criteria": {
-      "has_dyes/black": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -13014,15 +12744,153 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
   "handcrafted:recipes/misc/bamboo_table": {
     "criteria": {
       "has_bamboo_table": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_corner_trim": {
+    "criteria": {
+      "has_bamboo_corner_trim": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo_mosaic": {
+    "criteria": {
+      "has_planks": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_door": {
+    "criteria": {
+      "has_planks": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/bamboo_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/bamboo_chest": {
+    "criteria": {
+      "has_bamboo_plank": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/sign_post_bamboo": {
+    "criteria": {
+      "has_the_recipe": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/bamboo_cupboard": {
+    "criteria": {
+      "has_bamboo_cupboard": "2025-03-25 18:51:12 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-25 18:51:28 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2025-03-25 18:51:28 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_storage_cabinet_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_candle": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_cabinetry": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_toilet": {
+    "criteria": {
+      "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_sink_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_toilet": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_sink": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_trampoline_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/decorations/pink_kitchen_cabinetry_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_storage_cabinet": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_kitchen_drawer": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "refurbished_furniture:recipes/misc/constructing/pink_bath": {
+    "criteria": {
+      "has_pink_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_pink_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_pink": {
+    "criteria": {
+      "has_dyes/black": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
@@ -13053,36 +12921,6 @@
   "refurbished_furniture:recipes/decorations/pink_kitchen_drawer_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
-    "criteria": {
-      "has_storage_aluminum": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "handcrafted:recipes/misc/bamboo_corner_trim": {
-    "criteria": {
-      "has_bamboo_corner_trim": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "mcwroofs:recipes/bamboo_mosaic": {
-    "criteria": {
-      "has_planks": "2025-03-25 18:51:12 +0100"
     },
     "done": true
   },
@@ -13122,99 +12960,15 @@
     },
     "done": true
   },
-  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
-    "criteria": {
-      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_door": {
-    "criteria": {
-      "has_planks": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
-    "criteria": {
-      "has_treated_planks": "2025-03-25 19:03:34 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/bamboo_trapdoor": {
-    "criteria": {
-      "has_planks": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_grill_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-25 18:51:29 +0100"
     },
     "done": true
   },
-  "sophisticatedstorage:recipes/misc/bamboo_chest": {
-    "criteria": {
-      "has_bamboo_plank": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "supplementaries:recipes/sign_post_bamboo": {
-    "criteria": {
-      "has_the_recipe": "2025-03-25 18:51:12 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
-    "criteria": {
-      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
-    "criteria": {
-      "has_glass_pane": "2025-03-25 18:51:28 +0100"
-    },
-    "done": true
-  },
-  "occultism:recipes/crushing/crushing/obsidian_dust": {
-    "criteria": {
-      "has_obsidian": "2025-03-25 18:53:43 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_vertical": {
-    "criteria": {
-      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
-    },
-    "done": true
-  },
-  "immersiveengineering:recipes/misc/crafting/cloche": {
-    "criteria": {
-      "has_light_bulb": "2025-03-25 19:10:01 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/enchanting_table": {
-    "criteria": {
-      "has_obsidian": "2025-03-25 18:53:43 +0100"
-    },
-    "done": true
-  },
   "refurbished_furniture:recipes/decorations/pink_cooler_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-25 18:51:29 +0100"
-    },
-    "done": true
-  },
-  "skyfactory_5:tracking_advancements/trophies/orange_trophies": {
-    "criteria": {
-      "Blaze": "2025-03-25 18:52:58 +0100"
-    },
-    "done": false
-  },
-  "handcrafted:recipes/misc/bamboo_cupboard": {
-    "criteria": {
-      "has_bamboo_cupboard": "2025-03-25 18:51:12 +0100"
     },
     "done": true
   },
@@ -13227,6 +12981,396 @@
   "refurbished_furniture:recipes/decorations/pink_lamp_from_dyeing": {
     "criteria": {
       "has_dye": "2025-03-25 18:51:29 +0100"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/trophies/orange_trophies": {
+    "criteria": {
+      "Blaze": "2025-03-25 18:52:58 +0100"
+    },
+    "done": false
+  },
+  "additionallanterns:recipes/misc/obsidian_chain": {
+    "criteria": {
+      "recipe_condition": "2025-03-25 18:53:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/ens_crying_obsidian": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 18:53:43 +0100"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/obsidian_dust": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 18:53:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2025-03-25 18:53:43 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal": {
+    "criteria": {
+      "has_creosote": "2025-03-25 18:55:10 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/waterwheel_segment": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/windmill_blade": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/craftingtable": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/capacitor_lv": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_fence": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_treated": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/reinforced_crate": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_from_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/crate": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_barrel": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/workbench": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wallmount": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_horizontal": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_horizontal_to_slab": {
+    "criteria": {
+      "has_treated_wood_horizontal": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_scaffold": {
+    "criteria": {
+      "has_treated_planks": "2025-03-25 19:03:34 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_packaged_from_vertical": {
+    "criteria": {
+      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_to_slab": {
+    "criteria": {
+      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/treated_wood_vertical_from_slab": {
+    "criteria": {
+      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stairs_treated_wood_vertical": {
+    "criteria": {
+      "has_treated_wood_vertical": "2025-03-25 19:05:09 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wooden_grip": {
+    "criteria": {
+      "has_treated_sticks": "2025-03-25 19:05:14 +0100"
+    },
+    "done": true
+  },
+  "occultism:recipes/crushing/crushing/aluminum_dust_from_ingot": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/plate_aluminum_hammering": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/stick_aluminum": {
+    "criteria": {
+      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/ingot_aluminum_to_storage_aluminum": {
+    "criteria": {
+      "has_ingot_aluminum": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_wallmount": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_fence": {
+    "criteria": {
+      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wirecoil_redstone": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/wire_aluminum": {
+    "criteria": {
+      "has_aluminum_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/storage_aluminum_to_ingot_aluminum": {
+    "criteria": {
+      "has_storage_aluminum": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/alu_scaffolding_standard": {
+    "criteria": {
+      "has_alu_ingot": "2025-03-25 19:09:17 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/electric_lantern": {
+    "criteria": {
+      "has_light_bulb": "2025-03-25 19:10:01 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/floodlight": {
+    "criteria": {
+      "has_light_bulb": "2025-03-25 19:10:01 +0100"
+    },
+    "done": true
+  },
+  "immersiveengineering:recipes/misc/crafting/cloche": {
+    "criteria": {
+      "has_light_bulb": "2025-03-25 19:10:01 +0100"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/normal_gateways/red_normal_gateways": {
+    "criteria": {
+      "mooshroom": "2025-03-25 19:26:03 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/bamboo_planks": {
+    "criteria": {
+      "has_logs": "2025-05-28 12:11:01 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_to_gold_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_to_diamond_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2025-05-28 12:14:09 +0200"
+    },
+    "done": true
+  },
+  "exnihilosequentia:recipes/misc/ens_bamboo_crucible": {
+    "criteria": {
+      "has_logs": "2025-05-28 12:11:01 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/iron_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-28 12:12:34 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/diamond_to_netherite_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_to_iron_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_copper_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_to_iron_tier_from_basic_to_copper_tier": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2025-05-28 12:14:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/repeater": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/gold_barrel": {
+    "criteria": {
+      "has_iron_barrel": "2025-05-28 12:22:48 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/bamboo_mosaic": {
+    "criteria": {
+      "has_bamboo_slab": "2025-05-28 12:11:12 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/copper_barrel": {
+    "criteria": {
+      "has_barrel": "2025-05-28 12:12:34 +0200"
+    },
+    "done": true
+  },
+  "botania:recipes/redstone/animated_torch": {
+    "criteria": {
+      "has_item": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "sophisticatedstorage:recipes/misc/basic_tier_upgrade": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/smelting/scoria": {
+    "criteria": {
+      "has_item": "2025-05-28 12:14:09 +0200"
+    },
+    "done": true
+  },
+  "mcwroofs:recipes/bamboo": {
+    "criteria": {
+      "has_planks": "2025-05-28 12:11:01 +0200"
+    },
+    "done": true
+  },
+  "skyfactory_5:tracking_advancements/simple_hats/141_160": {
+    "criteria": {
+      "orange_hat": "2025-05-28 12:53:08 +0200"
+    },
+    "done": false
+  },
+  "sophisticatedstorage:recipes/misc/storage_tool": {
+    "criteria": {
+      "has_redstone_torch": "2025-05-28 12:12:24 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/fluid_tank": {
+    "criteria": {
+      "has_item": "2025-05-28 12:12:34 +0200"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/item_vault": {
+    "criteria": {
+      "has_item": "2025-05-28 12:12:34 +0200"
     },
     "done": true
   },
